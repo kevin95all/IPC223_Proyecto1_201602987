@@ -2,8 +2,8 @@ from tkinter import *
 from tkinter import filedialog
 from colorama import Fore
 from XML import XML
-#  import os
-#  import webbrowser
+import os
+import webbrowser
 
 
 class Main:
@@ -74,10 +74,28 @@ class Main:
         ventana.mainloop()
 
     def seleccionar_muestra(self):  # -----> Metodo para seleccionar la muestra
-        pass
+        if self.ruta == '':
+            print('                                              ')
+            print(Fore.RED + '--> No se ha cargado ningun archivo')
+        else:
+            self.archivo.mostrar_muestra()
+            self.muestra_seleccionada = True
 
     def graficar_muestra(self):  # -----> Metodo para graficar la muestra
-        pass
+        if self.ruta == '':
+            print('                                              ')
+            print(Fore.RED + '--> No se ha cargado ningun archivo')
+        else:
+            if not self.muestra_seleccionada:
+                print('                                               ')
+                print(Fore.RED + '--> No se ha cargado ninguna muestra')
+            else:
+                print('                                          ')
+                print(Fore.CYAN + '--> Muestra original graficada')
+
+                direccion = 'file:///' + os.getcwd() + '/' + 'archivos_creados/muestra.pdf'
+
+                webbrowser.open_new(direccion)
 
     def colocar_organismo(self):  # -----> Metodo para colocar nuevos organismos
         pass
