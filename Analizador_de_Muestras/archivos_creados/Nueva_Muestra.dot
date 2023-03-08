@@ -1,0 +1,42 @@
+digraph Nuevo_M01Marte {
+abc [shape=none, margin=0, label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="2" CELLPADDING="7">
+<TR><TD BGCOLOR="gold"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="blue"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="green"></TD><TD BGCOLOR="green"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="blue"></TD><TD BGCOLOR="blue"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="green"></TD><TD BGCOLOR="green"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="blue"></TD><TD BGCOLOR="blue"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="green"></TD><TD BGCOLOR="gold"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+<TR><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD><TD BGCOLOR="white"></TD>
+</TR>
+</TABLE>>];
+
+detalles [shape=none, margin=0, label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="2" CELLPADDING="7">
+<TR><TD BGCOLOR="green">Org01</TD></TR>
+<TR><TD BGCOLOR="blue">Org02</TD></TR>
+<TR><TD BGCOLOR="gold">Org03</TD></TR>
+</TABLE>>];
+}

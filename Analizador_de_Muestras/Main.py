@@ -13,6 +13,7 @@ class Main:
         self.op = ''  # -----> Guarda la opción seleccionada del menú
         self.salir = False  # -----> Variable para finalizar el programa
         self.muestra_seleccionada = False  # -----> variable para seleccionar muestra
+        self.muestra_analizada = False  # -----> variable para analizar la muestra
         self.archivo = XML()
 
     def menu_principal(self):  # -----> Metodo para mostrar el menu principal
@@ -93,24 +94,62 @@ class Main:
                 print('                                          ')
                 print(Fore.CYAN + '--> Muestra original graficada')
 
-                direccion = 'file:///' + os.getcwd() + '/' + 'archivos_creados/muestra.pdf'
+                direccion = 'file:///' + os.getcwd() + '/' + 'archivos_creados/Muestra.pdf'
 
                 webbrowser.open_new(direccion)
 
     def colocar_organismo(self):  # -----> Metodo para colocar nuevos organismos
-        pass
+        if self.ruta == '':
+            print('                                              ')
+            print(Fore.RED + '--> No se ha cargado ningun archivo')
+        else:
+            if not self.muestra_seleccionada:
+                print('                                               ')
+                print(Fore.RED + '--> No se ha cargado ninguna muestra')
+            else:
+                self.archivo.insertar_organismo()
 
     def analizar_muestra(self):  # -----> Metodo para analizar la muestra
-        pass
+        if self.ruta == '':
+            print('                                              ')
+            print(Fore.RED + '--> No se ha cargado ningun archivo')
+        else:
+            if not self.muestra_seleccionada:
+                print('                                               ')
+                print(Fore.RED + '--> No se ha cargado ninguna muestra')
+            else:
+                print('                                 ')
+                print(Fore.CYAN + '--> Muestra analizada')
+
+                direccion = 'file:///' + os.getcwd() + '/' + 'archivos_creados/Nueva_Muestra.pdf'
+
+                webbrowser.open_new(direccion)
+                self.muestra_analizada = True
 
     def generar_xml(self):  # -----> Metodo para generar un archivo XML
-        pass
+        if self.ruta == '':
+            print('                                              ')
+            print(Fore.RED + '--> No se ha cargado ningun archivo')
+        else:
+            if not self.muestra_seleccionada:
+                print('                                               ')
+                print(Fore.RED + '--> No se ha cargado ninguna muestra')
+            else:
+                if not self.muestra_analizada:
+                    print('                                                 ')
+                    print(Fore.RED + '--> No se ha analizado ninguna muestra')
+                else:
+                    self.archivo.generar_xml()
+                    print('                                              ')
+                    print(Fore.CYAN + '--> Archivo xml generado con exito')
 
     def finalizar(self):  # -----> Metodo para finalizar el programa
         print('                                  ')
         print(Fore.RED + '--> Programa finalizado')
         self.ruta = ''
         self.op = ''
+        self.muestra_seleccionada = False
+        self.muestra_analizada = False
         self.salir = True
 
 
